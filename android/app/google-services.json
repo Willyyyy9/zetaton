@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "92528656355",
+    "project_id": "zetaton-d7578",
+    "storage_bucket": "zetaton-d7578.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92528656355:android:1463992c2864b1d09c2ad6",
+        "android_client_info": {
+          "package_name": "com.example.zetaton"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92528656355-268ccus528f0lb9239kqhuro1nqifert.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOC-_MFlJ4xcacmGzEUj_xc4q7ZBKAjP0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "92528656355-268ccus528f0lb9239kqhuro1nqifert.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
